@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/65c49c9d-a56e-42e5-b095-163485492279" width="550" height="300" >
 </p>
 
-<h1 align="center">𓍊𓋼𓍊𓋼𓍊𓍊𓋼𓍊𓋼𓍊𓍊𓋼𓍊𓋼𓍊𓍊𓋼𓍊𓋼𓍊𓍊𓋼𓍊 SporeLog 𓍊𓋼𓍊𓋼𓍊𓍊𓋼𓍊𓋼𓍊𓍊𓋼𓍊𓋼𓍊𓍊𓋼𓍊𓋼𓍊𓍊𓋼𓍊</h1>
+<h1 align="center">𓍊𓋼𓍊𓋼𓍊 SporeLog 𓍊𓋼𓍊𓋼𓍊</h1>
 
 
 <p align="center">
